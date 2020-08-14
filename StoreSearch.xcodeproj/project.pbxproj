@@ -13,6 +13,7 @@
 		94485D9124E5EA6C00666331 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94485D8F24E5EA6C00666331 /* Main.storyboard */; };
 		94485D9324E5EA6E00666331 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94485D9224E5EA6E00666331 /* Assets.xcassets */; };
 		94485D9624E5EA6E00666331 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94485D9424E5EA6E00666331 /* LaunchScreen.storyboard */; };
+		94485D9E24E6BAC700666331 /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94485D9D24E6BAC700666331 /* SearchResult.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		94485D9224E5EA6E00666331 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		94485D9524E5EA6E00666331 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		94485D9724E5EA6E00666331 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94485D9D24E6BAC700666331 /* SearchResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				94485D8924E5EA6C00666331 /* AppDelegate.swift */,
 				94485D8B24E5EA6C00666331 /* SceneDelegate.swift */,
 				94485D8D24E5EA6C00666331 /* SearchViewController.swift */,
+				94485D9D24E6BAC700666331 /* SearchResult.swift */,
 				94485D8F24E5EA6C00666331 /* Main.storyboard */,
 				94485D9224E5EA6E00666331 /* Assets.xcassets */,
 				94485D9424E5EA6E00666331 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				94485D8E24E5EA6C00666331 /* SearchViewController.swift in Sources */,
 				94485D8A24E5EA6C00666331 /* AppDelegate.swift in Sources */,
+				94485D9E24E6BAC700666331 /* SearchResult.swift in Sources */,
 				94485D8C24E5EA6C00666331 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
