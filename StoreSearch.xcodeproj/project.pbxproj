@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		94047A0024EE739700065BF6 /* LoadingCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 940479FF24EE739700065BF6 /* LoadingCell.xib */; };
+		9436672824F0D19700EDA11C /* UIImageView+DownloadImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9436672724F0D19700EDA11C /* UIImageView+DownloadImage.swift */; };
 		94485D8A24E5EA6C00666331 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94485D8924E5EA6C00666331 /* AppDelegate.swift */; };
 		94485D8C24E5EA6C00666331 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94485D8B24E5EA6C00666331 /* SceneDelegate.swift */; };
 		94485D8E24E5EA6C00666331 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94485D8D24E5EA6C00666331 /* SearchViewController.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		940479FF24EE739700065BF6 /* LoadingCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoadingCell.xib; sourceTree = "<group>"; };
+		9436672724F0D19700EDA11C /* UIImageView+DownloadImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+DownloadImage.swift"; sourceTree = "<group>"; };
 		94485D8624E5EA6C00666331 /* StoreSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StoreSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94485D8924E5EA6C00666331 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		94485D8B24E5EA6C00666331 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				940479FF24EE739700065BF6 /* LoadingCell.xib */,
 				94485DA324E7328300666331 /* NothingFoundCell.xib */,
 				94485D9724E5EA6E00666331 /* Info.plist */,
+				9436672724F0D19700EDA11C /* UIImageView+DownloadImage.swift */,
 			);
 			path = StoreSearch;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			files = (
 				94485D8E24E5EA6C00666331 /* SearchViewController.swift in Sources */,
 				94485D8A24E5EA6C00666331 /* AppDelegate.swift in Sources */,
+				9436672824F0D19700EDA11C /* UIImageView+DownloadImage.swift in Sources */,
 				94485D9E24E6BAC700666331 /* SearchResult.swift in Sources */,
 				94485D8C24E5EA6C00666331 /* SceneDelegate.swift in Sources */,
 				94485DA224E7275900666331 /* SearchResultCell.swift in Sources */,
