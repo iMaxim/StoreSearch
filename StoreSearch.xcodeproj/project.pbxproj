@@ -23,6 +23,7 @@
 		94B9B4672518C650008F3B03 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B9B4662518C650008F3B03 /* GradientView.swift */; };
 		94B9B46A2518CA87008F3B03 /* BounceAnimationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B9B4692518CA87008F3B03 /* BounceAnimationController.swift */; };
 		94B9B46D2518E2F0008F3B03 /* SlideOutAnimationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B9B46C2518E2F0008F3B03 /* SlideOutAnimationController.swift */; };
+		94BCF7752522224F00397A3E /* Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BCF7742522224F00397A3E /* Search.swift */; };
 		94DC3026251DF02600D22233 /* LandscapeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94DC3025251DF02600D22233 /* LandscapeViewController.swift */; };
 		94DC302B251E2D1A00D22233 /* FadeOutAnimationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94DC302A251E2D1A00D22233 /* FadeOutAnimationController.swift */; };
 /* End PBXBuildFile section */
@@ -46,6 +47,7 @@
 		94B9B4662518C650008F3B03 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		94B9B4692518CA87008F3B03 /* BounceAnimationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BounceAnimationController.swift; sourceTree = "<group>"; };
 		94B9B46C2518E2F0008F3B03 /* SlideOutAnimationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideOutAnimationController.swift; sourceTree = "<group>"; };
+		94BCF7742522224F00397A3E /* Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Search.swift; sourceTree = "<group>"; };
 		94DC3025251DF02600D22233 /* LandscapeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandscapeViewController.swift; sourceTree = "<group>"; };
 		94DC302A251E2D1A00D22233 /* FadeOutAnimationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FadeOutAnimationController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -91,6 +93,7 @@
 				9436672B24F0E8F800EDA11C /* DimmingPresentationController.swift */,
 				94B9B46C2518E2F0008F3B03 /* SlideOutAnimationController.swift */,
 				94DC302A251E2D1A00D22233 /* FadeOutAnimationController.swift */,
+				94BCF7742522224F00397A3E /* Search.swift */,
 				94485D9D24E6BAC700666331 /* SearchResult.swift */,
 				94485D8F24E5EA6C00666331 /* Main.storyboard */,
 				94485D9224E5EA6E00666331 /* Assets.xcassets */,
@@ -189,6 +192,7 @@
 				9436672A24F0DED200EDA11C /* DetailViewController.swift in Sources */,
 				94DC3026251DF02600D22233 /* LandscapeViewController.swift in Sources */,
 				94B9B4672518C650008F3B03 /* GradientView.swift in Sources */,
+				94BCF7752522224F00397A3E /* Search.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
